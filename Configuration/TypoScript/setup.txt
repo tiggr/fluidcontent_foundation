@@ -1,0 +1,5 @@
+plugin.tx_fluidcontentfoundation.view {
+	templateRootPath = {$plugin.tx_fluidcontentfoundation.view.templateRootPath}
+	partialRootPath = {$plugin.tx_fluidcontentfoundation.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_fluidcontentfoundation.view.layoutRootPath}
+}

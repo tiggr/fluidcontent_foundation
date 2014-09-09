@@ -1,0 +1,5 @@
+plugin.tx_fluidcontentfoundation.view {
+	templateRootPath = EXT:fluidcontent_foundation/Resources/Private/Templates/
+	partialRootPath = EXT:fluidcontent_foundation/Resources/Private/Partials/
+	layoutRootPath = EXT:fluidcontent_foundation/Resources/Private/Layouts/
+}
